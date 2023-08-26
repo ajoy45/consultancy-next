@@ -3,7 +3,7 @@ import image from '../../../src/images/banner/img.png'
 import Image from 'next/image';
 const Banner = () => {
     return (
-        <div className='md:flex md:justify-between items-center md:px-0 px-24 max-w-screen-xl mx-auto'>
+        <div className='md:flex md:justify-between items-center max-w-screen-xl mx-auto '>
             <div>
                 <h1 className='text-6xl font-extrabold mb-6'>Your strategy is <br /> only as good as <br /> you execute it</h1>
                 <p className='mb-6 text-xl'>Our simple but powerful OKR+ platform turns great <br /> strategies into amazing results. And it is free.</p>
