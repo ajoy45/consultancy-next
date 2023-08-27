@@ -22,7 +22,7 @@ const Product = () => {
                             <Image src={arrow} alt='' />
                         </div>
                     </div>
-                    <div className='bg-white z-10 p-8 rounded-r-full hover:bg-blue-300'>
+                    <div className=' z-10 p-8 rounded-r-full bg-blue-300'>
                         <div className='flex justify-center'>
                             <Image src={icon2} alt='' />
                         </div>
