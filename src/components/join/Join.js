@@ -5,7 +5,7 @@ import leftVector from'@/images/join/vector1.png';
 import rightVector from'@/images/join/vector2.png';
 const Join = () => {
     return (
-        <div className='max-w-screen-xl mx-auto relative my-24'>
+        <div className='max-w-screen-xl mx-auto relative mt-24'>
             <div className='text-center my-12'>
                 <h1 className='text-3xl font-bold mb-3'>Join hundreds of successful <br />organizations</h1>
                 <p>Companies of every size, and in 62 different countries, are using Perdoo to beat their competitors.</p>
