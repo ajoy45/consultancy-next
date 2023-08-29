@@ -1,8 +1,9 @@
-import Banner from "@/components/banner/Banner"
-import Feature from "@/components/features/Feature"
-import Join from "@/components/join/Join"
-import Overview from "@/components/overview/Overview"
-import Product from "@/components/product/Product"
+import Banner from "../components/banner/Banner"
+import Feature from "../components/features/Feature"
+import Join from "../components/join/Join"
+import Overview from "../components/overview/Overview"
+import Product from "../components/product/Product"
+
 
 const HomePage=()=>{
   return(

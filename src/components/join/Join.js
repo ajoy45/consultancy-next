@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import React from 'react';
-import profile from '@/assets/images/join/person.png';
-import leftVector from'@/assets/images/join/vector1.png';
-import rightVector from'@/assets/images/join/vector2.png';
+import profile from '../../../public/assets/images/join/person.png';
+import leftVector from'../../../public/assets/images/join/vector1.png';
+import rightVector from'../../../public/assets/images/join/vector2.png';
 const Join = () => {
     return (
         <div className='max-w-screen-xl mx-auto relative mt-24'>

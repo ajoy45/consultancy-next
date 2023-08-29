@@ -1,9 +1,9 @@
 import Image from 'next/image';
 import React from 'react';
-import percentage from '@/assets/images/overview/percentage.png';
-import curve from '@/assets/images/overview/curve.png';
-import barChart from '@/assets/images/overview/barchat.png';
-import arrow from '@/assets/images/product/arrow.png';
+import percentage from '../../../public/assets/images/overview/percentage.png';
+import curve from '../../../public/assets/images/overview/curve.png';
+import barChart from '../../../public/assets/images/overview/barchat.png';
+import arrow from '../../../public/assets/images/product/arrow.png';
 const Overview = () => {
     return (
         <div className='max-w-screen-xl mx-auto'>
