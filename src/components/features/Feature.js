@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import React from 'react';
-import arrow from '@/images/product/arrow.png';
-import tik from '@/images/features/tik.png';
-import indicator from '@/images/features/indicator.png';
-import mark from '@/images/features/icon.png';
-import person1 from '@/images/features/person1.png'
+import arrow from '@/assets/images/product/arrow.png';
+import tik from '@/assets/images/features/tik.png';
+import indicator from '@/assets/images/features/indicator.png';
+import mark from '@/assets/images/features/icon.png';
+import person1 from '@/assets/images/features/person1.png'
 const Feature = () => {
     return (
         <div className='max-w-screen-xl mx-auto py-24'>

@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import React from 'react';
-import icon1 from '@/images/product/icon1.png';
-import icon2 from '@/images/product/icon2.png';
-import icon3 from '@/images/product/icon3.png';
-import arrow from '@/images/product/arrow.png';
-import pattern from '@/images/product/pattern.png'
+import icon1 from '@/assets/images/product/icon1.png';
+import icon2 from '@/assets/images/product/icon2.png';
+import icon3 from '@/assets/images/product/icon3.png';
+import arrow from '@/assets/images/product/arrow.png';
+import pattern from '@/assets/images/product/pattern.png'
 const Product = () => {
     return (
         <div className='bg-[#f6f9ff]'>
